@@ -1,3 +1,7 @@
+[![make.fun · u-suga-the-robot-apology-dd96bb59](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59?utm_source=github&utm_medium=readme&utm_campaign=u-suga-the-robot-apology-dd96bb59)
+[![rank](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59/Lisanye9527/the-robot-apology/rank.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suga-the-robot-apology-dd96bb59)
+[![reward](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59/Lisanye9527/the-robot-apology/reward.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59?utm_source=github&utm_medium=readme&utm_campaign=u-suga-the-robot-apology-dd96bb59)
+
 # The Robot Apology
 
 A two-line robot confession for the make.fun contest "The Robot Apology".
